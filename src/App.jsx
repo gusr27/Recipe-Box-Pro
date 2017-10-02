@@ -31,7 +31,7 @@ class App extends Component {
             <AddRecipe />
             <footer className="navbar-fixed-bottom" style={{bottom: '0', textAlign:"center"}}>
                 <hr/>
-                <p>By Gus Richardson | Source Code: <a href="https://github.com/gusr27/camperPro" target="_blank"><FontAwesome className="super-crazy-colors"name="github" size="2x" /></a></p>
+                <p>By Gus Richardson | Source Code: <a href="https://github.com/gusr27/Recipe-Box-Pro" target="_blank"><FontAwesome className="super-crazy-colors"name="github" size="2x" /></a></p>
             </footer>
          </div>
 
